@@ -1,0 +1,2 @@
+#忽略android project 底下的bin 資料夾
+bin/
